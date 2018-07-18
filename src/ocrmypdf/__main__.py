@@ -838,6 +838,7 @@ def report_output_file_size(options, _log, input_file, output_file):
 def run_pipeline():
     options = parser.parse_args()
     options.verbose_abbreviated_path = 1
+    print("Inside of options is: " + options)
 
     if not check_closed_streams(options):
         return ExitCode.bad_args

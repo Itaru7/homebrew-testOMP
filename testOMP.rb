@@ -10,6 +10,7 @@ class Testomp < Formula
   head "#{REPOSITORY_URL}.git", :tag => HOMEBREW_GITPULLS_VERSION
 
   def install
+    system "make"
     bin.install "testOMP"
   end
 

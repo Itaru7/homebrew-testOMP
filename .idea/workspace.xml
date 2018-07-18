@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f3bb470-51e7-4dc6-9e49-731743da6abb" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/src/ocrmypdf/__main__.py" afterPath="$PROJECT_DIR$/src/ocrmypdf/__main__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/testOMP.rb" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/ocrmypdf/_jobcontext.py" afterPath="$PROJECT_DIR$/src/ocrmypdf/_jobcontext.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,18 +18,58 @@
       <file leaf-file-name="__main__.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ocrmypdf/__main__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="895" column="22" lean-forward="false" selection-start-line="895" selection-start-column="8" selection-end-line="895" selection-end-column="22" />
+            <state relative-caret-position="216">
+              <caret line="892" column="36" lean-forward="true" selection-start-line="892" selection-start-column="36" selection-end-line="892" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_pipeline.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_jobcontext.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ocrmypdf/_jobcontext.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="60" column="22" lean-forward="true" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="misc_util.py" pinned="false" current-in-tab="false">
+        <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/numpy/distutils/misc_util.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="866" column="23" lean-forward="true" selection-start-line="866" selection-start-column="17" selection-end-line="866" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SSL.py" pinned="false" current-in-tab="false">
+        <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/OpenSSL/SSL.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="1266" column="22" lean-forward="true" selection-start-line="1266" selection-start-column="16" selection-end-line="1266" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_pipeline.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ocrmypdf/_pipeline.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="233">
               <caret line="862" column="4" lean-forward="false" selection-start-line="862" selection-start-column="4" selection-end-line="862" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testOMP.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testOMP.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -49,6 +89,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/ocrmypdf/__main__.py" />
+        <option value="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/OpenSSL/SSL.py" />
+        <option value="$PROJECT_DIR$/testOMP.rb" />
       </list>
     </option>
   </component>
@@ -62,6 +104,9 @@
     <option name="x" value="642" />
     <option name="width" value="638" />
     <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -174,18 +219,50 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ocrmypdf/__main__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="895" column="22" lean-forward="false" selection-start-line="895" selection-start-column="8" selection-end-line="895" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ocrmypdf/_pipeline.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="233">
           <caret line="862" column="4" lean-forward="false" selection-start-line="862" selection-start-column="4" selection-end-line="862" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocrmypdf/_jobcontext.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="60" column="22" lean-forward="true" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/numpy/distutils/misc_util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="866" column="23" lean-forward="true" selection-start-line="866" selection-start-column="17" selection-end-line="866" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/OpenSSL/SSL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1266" column="22" lean-forward="true" selection-start-line="1266" selection-start-column="16" selection-end-line="1266" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocrmypdf/__main__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="892" column="36" lean-forward="true" selection-start-line="892" selection-start-column="36" selection-end-line="892" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testOMP.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
           <folding />
         </state>
       </provider>

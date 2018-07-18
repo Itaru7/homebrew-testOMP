@@ -55,7 +55,11 @@ class JobContext:
     def get_options(self):
         return self.options
 
-    def set_options(self, options):
+    def set_options(self, options: object) -> object:
+        """
+
+        :rtype: object
+        """
         self.options = options
 
     def get_work_folder(self):

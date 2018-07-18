@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f3bb470-51e7-4dc6-9e49-731743da6abb" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/testOMP.rb" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/ocrmypdf/_jobcontext.py" afterPath="$PROJECT_DIR$/src/ocrmypdf/_jobcontext.py" />
+      <change beforePath="$PROJECT_DIR$/testOMP.rb" afterPath="$PROJECT_DIR$/testOMP.rb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/src/ocrmypdf/__main__.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="892" column="36" lean-forward="true" selection-start-line="892" selection-start-column="36" selection-end-line="892" selection-end-column="36" />
+              <caret line="892" column="36" lean-forward="false" selection-start-line="892" selection-start-column="36" selection-end-line="892" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -29,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/src/ocrmypdf/_jobcontext.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="60" column="22" lean-forward="true" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="22" />
+              <caret line="60" column="22" lean-forward="false" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -39,7 +37,7 @@
         <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/numpy/distutils/misc_util.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="866" column="23" lean-forward="true" selection-start-line="866" selection-start-column="17" selection-end-line="866" selection-end-column="23" />
+              <caret line="866" column="23" lean-forward="false" selection-start-line="866" selection-start-column="17" selection-end-line="866" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -49,7 +47,7 @@
         <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/OpenSSL/SSL.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="1266" column="22" lean-forward="true" selection-start-line="1266" selection-start-column="16" selection-end-line="1266" selection-end-column="22" />
+              <caret line="1266" column="22" lean-forward="false" selection-start-line="1266" selection-start-column="16" selection-end-line="1266" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -68,8 +66,8 @@
       <file leaf-file-name="testOMP.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/testOMP.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+            <state relative-caret-position="30">
+              <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -230,7 +228,7 @@
     <entry file="file://$PROJECT_DIR$/src/ocrmypdf/_jobcontext.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="60" column="22" lean-forward="true" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="22" />
+          <caret line="60" column="22" lean-forward="false" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="22" />
           <folding />
         </state>
       </provider>
@@ -238,7 +236,7 @@
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/numpy/distutils/misc_util.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="866" column="23" lean-forward="true" selection-start-line="866" selection-start-column="17" selection-end-line="866" selection-end-column="23" />
+          <caret line="866" column="23" lean-forward="false" selection-start-line="866" selection-start-column="17" selection-end-line="866" selection-end-column="23" />
           <folding />
         </state>
       </provider>
@@ -246,7 +244,7 @@
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/OpenSSL/SSL.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="1266" column="22" lean-forward="true" selection-start-line="1266" selection-start-column="16" selection-end-line="1266" selection-end-column="22" />
+          <caret line="1266" column="22" lean-forward="false" selection-start-line="1266" selection-start-column="16" selection-end-line="1266" selection-end-column="22" />
           <folding />
         </state>
       </provider>
@@ -254,15 +252,15 @@
     <entry file="file://$PROJECT_DIR$/src/ocrmypdf/__main__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="892" column="36" lean-forward="true" selection-start-line="892" selection-start-column="36" selection-end-line="892" selection-end-column="36" />
+          <caret line="892" column="36" lean-forward="false" selection-start-line="892" selection-start-column="36" selection-end-line="892" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testOMP.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+        <state relative-caret-position="30">
+          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
           <folding />
         </state>
       </provider>
